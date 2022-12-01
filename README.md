@@ -7,7 +7,7 @@ Mobile app built for the safety of women.
 Use the version control to access it.
 
 ```bash
-https://github.com/mahathii/WomenSafety.git
+https://github.com/shivaniuppe/womensafety.git
 ```
 
 ## Contributing
@@ -20,11 +20,6 @@ Please make sure to update tests as appropriate.
 
 Use the Android Studio _Build Variants_ button to choose between **production** and **staging** flavors combined with debug and release build types
 
-## Maintainers
-
-This project is mantained by:
-
-- [K Mahathi](http://github.com/mahathii)
 
 ## Contributing
 
